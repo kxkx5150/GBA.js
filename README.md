@@ -5,6 +5,11 @@
 Demo  
 https://kxkx5150.github.io/GBA.js/  
 
+  
+
+Demo WASM Ver.  
+https://kxkx5150.github.io/GBA-wasm/  
+
 <br><br><br><br><br>
 
 <br>
