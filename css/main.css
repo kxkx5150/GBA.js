@@ -1,0 +1,27 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+  color: #ccc;
+  background: #191919;
+  font-size: 13px;
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+input {
+  font-size: 13px;
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+button:focus {
+  outline: 0;
+}
+#output {
+  width: 480px;
+  height: 320px;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
